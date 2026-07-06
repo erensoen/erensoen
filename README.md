@@ -29,12 +29,12 @@ Focused on architecting, securing, and optimizing core network infrastructures a
 
 If you wish to support my technical developments, open-source projects, or secure infrastructure research, you can use the verified channels below.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kullanici_adin)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/erensoen)
 
 #### 🪙 Verified Crypto Gateways
 
-* **USDT (TRC-20 Network):** `YOUR_TRC20_USDT_WALLET_ADDRESS_HERE`
-* **Bitcoin (BTC Network):** `YOUR_BTC_WALLET_ADDRESS_HERE`
+* **USDT (TRC-20 Network):** `TCYYThBGrqURAMneAces5ow7o4DXpJ3jvt`
+* **Bitcoin (BTC Network):** `bc1q2wkwdz3mcwey3zmlgdgzfdc60zh65r9alsjmfa`
 
 ---
 
