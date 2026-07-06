@@ -1,4 +1,4 @@
-# <img src="logo.png" width="50" height="50" valign="middle"> Eren Soen
+# <img src="logo.png" width="35" height="35" valign="middle"> Eren Soen
 
 ### Systems, Network & Information Security Specialist
 
