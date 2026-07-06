@@ -29,7 +29,7 @@ Focused on architecting, securing, and optimizing core network infrastructures a
 
 If you wish to support my technical developments, open-source projects, or secure infrastructure research, you can use the verified channels below.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/erensoen)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/cw/ErenSoen)
 
 #### 🪙 Verified Crypto Gateways
 
