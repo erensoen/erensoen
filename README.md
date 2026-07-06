@@ -1,17 +1,19 @@
-# 🌐 Hi there, I'm Eren Soen (Network & Cyber Security Enthusiast)
+# <img src="https://erensoen.com/resimler/favicon.svg" width="30" height="30" valign="middle"> Eren Soen
 
-I am a system architect and technical explorer who designs logic, maps out scenarios, and deploys functional infrastructures. Rather than memorizing endless lines of code, I focus on understanding the big picture of systems, solving real-world problems, and eliminating security vulnerabilities through clever implementation (vibecoding). Currently, I am fully dedicated to building my expertise in cyber security, network technologies, and automation.
+### Systems, Network & Information Security Specialist
 
----
-
-### 🚀 Active Deployments & Projects
-
-* **TraceBack:** A privacy-focused system tool designed to scan, trace, and analyze digital footprints and data remnants left across the internet. (Python / Security)
-* **3D Horror Project (NÖBET):** An indie horror game built from scratch on Unity and C#. Every aspect, from environmental atmosphere to the narrative arc, is individually driven.
+Focused on architecting, securing, and optimizing core network infrastructures and distributed environments. Experienced in mapping system vulnerabilities, managing enterprise-grade firewalls, and developing automation workflows to eliminate security vectors. I build resilient infrastructures from the ground up, combining deep networking knowledge with defensive and offensive security principles.
 
 ---
 
-### 🛠️ Technical Stack & Frameworks
+### 🚀 Active Deployments & Production Projects
+
+* **TraceBack:** A comprehensive reconnaissance and digital footprint analysis system designed to map, track, and evaluate data remnants and OSINT vectors across the internet. (Python / Security)
+* **3D Horror Project (NÖBET):** An independent horror game focusing on advanced logic, environmental architecture, and optimization built entirely on Unity and C#.
+
+---
+
+### 🛠️ Technical Core & Infrastructure Stack
 
 ![Unity](https://img.shields.io/badge/Unity_/_C%23-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_(CCNA)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -23,18 +25,18 @@ I am a system architect and technical explorer who designs logic, maps out scena
 
 ---
 
-### ☕ Support My Work
+### ☕ Support My Developments
 
-If you find my projects useful, want to support my open-source journey, or simply want to buy me a coffee, you can use the links below.
+If you wish to support my technical developments, open-source projects, or secure infrastructure research, you can use the verified channels below.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kullanici_adin)
 
-#### 🪙 Crypto Donation Wallets
+#### 🪙 Verified Crypto Gateways
 
 * **USDT (TRC-20 Network):** `YOUR_TRC20_USDT_WALLET_ADDRESS_HERE`
 * **Bitcoin (BTC Network):** `YOUR_BTC_WALLET_ADDRESS_HERE`
 
 ---
 
-📊 **GitHub Ecosystem Metrics**
+📊 **Ecosystem Architecture Metrics**
 ![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici_adin&show_icons=true&theme=tokyonight&count_private=true)
