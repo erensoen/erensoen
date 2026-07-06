@@ -1,4 +1,4 @@
-# <img src="https://erensoen.com/resimler/favicon.svg" width="30" height="30" valign="middle"> Eren Soen
+# <img src="logo.png" width="30" height="30" valign="middle"> Eren Soen
 
 ### Systems, Network & Information Security Specialist
 
