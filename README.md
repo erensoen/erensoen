@@ -38,5 +38,4 @@ If you wish to support my technical developments, open-source projects, or secur
 
 ---
 
-📊 **Ecosystem Architecture Metrics**
-![Eren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullanici_adin&show_icons=true&theme=tokyonight&count_private=true)
+![Eren's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=erensoen&show_icons=true&theme=tokyonight&count_private=true)
